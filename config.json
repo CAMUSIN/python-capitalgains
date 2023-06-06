@@ -1,0 +1,6 @@
+{
+  "Rules": {
+    "OperationAmount": "20000",
+    "TaxPercentage": "0.20"
+  }
+}
